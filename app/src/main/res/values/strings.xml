@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Umpire Bud</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_about">About</string>
+    <string name="app_about">Umpire Buddy by Fatema Cheema. This app was alot of fun to create.</string>
+    <string name="strikes">Strikes</string>
+    <string name="balls">Balls</string>
+    <string name="umpire_buddy">Umpire Buddy</string>
+    <string name="outs">Outs</string>
+    <string name="strikeButton">Strike</string>
+    <string name="ballButton">Ball</string>
+</resources>
